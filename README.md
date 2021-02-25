@@ -1,5 +1,5 @@
 ## Machine Learning Projects
-Uses classification and regression algorithms to solve problems on publically available datasets.
+Uses classification and regression algorithms to solve problems on publicly available datasets.
 
 
 The list of projects in this repo are:
