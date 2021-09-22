@@ -4,9 +4,10 @@ Machine learning is a branch of artificial intelligence (AI) and computer scienc
 
 This repository contains a list of projects made using Machine Learning.
 
-1. [Diabetic Retinopathy Detection using Texture Features and Ensemble Learning](https://github.com/umar07/Diabetic_Retinopathy_Detection)
-2. [Phishing URL detection and classification with handcrafted features.](https://github.com/umar07/Phishing_URL_Detection)
-3. [Fog Detection in static images using GLCM based texture features and SVM classification](https://github.com/umar07/Fog_Detection_using_GLCM_Features)
-4. [Miscellaneous Practice Projects](https://github.com/umar07/Miscellaneous_ML)
+1. [Reproduced papers for Image Forgery Detection](https://github.com/umar07/Image_Forgery_Detection)
+2. [Diabetic Retinopathy Detection using Texture Features and Ensemble Learning](https://github.com/umar07/Diabetic_Retinopathy_Detection)
+3. [Phishing URL detection and classification with handcrafted features.](https://github.com/umar07/Phishing_URL_Detection)
+4. [Fog Detection in static images using GLCM based texture features and SVM classification](https://github.com/umar07/Fog_Detection_using_GLCM_Features)
+5. [Miscellaneous Practice Projects](https://github.com/umar07/Miscellaneous_ML)
 
 
